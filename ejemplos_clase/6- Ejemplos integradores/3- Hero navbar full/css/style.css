@@ -2,11 +2,6 @@
  todos los margenes y paddings que se incluyen por defecto,
  para poder apreciar como el elemento ocupa correctamente
  todo el espacio indicado */
-* {
-  margin: 0;
-  padding: 0;
-}
-
 /* ------- Header style ------- */
 
 /* Pintamos el fondo de la navbar de negro

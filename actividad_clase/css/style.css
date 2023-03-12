@@ -1,0 +1,14 @@
+h1 {
+    color: red;
+}
+
+span {
+    color: yellow;
+}
+p {
+    color: violet;
+}
+body {
+    background-color: rgb(235, 235, 235);
+    font-size: 40px;
+}
